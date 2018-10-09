@@ -6,7 +6,9 @@ class ApplicationController < ActionController::Base
     end
 
     def links
-        render html: "Welcome to my course catalog!"
-        render html: 'Click <a href="courses#index">here</a> to see all courses.'
+        render html: "<h1>Welcome to my course catalog!</h1>"
+        render html: subjects.tag.strong('Subjects')
+        render html: courses.tag.strong('Courses')
+        render html: instructors.tag.strong('Instructors')
     end
 end
