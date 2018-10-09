@@ -1,24 +1,7 @@
-# README
+Eli Esrig
+elazare@brandeis.edu
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+GitHub: https://github.com/elazare/Course_Catalog
+Heroku: https://sheltered-sands-86859.herokuapp.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+NOTE: As of now (3:30 AM) the Heroku app is throwing an application error. I'm exhausted and I still have two other assignments for this class to do in addition to a midterm tomorrow, so I'm going to throw myself at the mercy of the almighty grader. Sorry. 
